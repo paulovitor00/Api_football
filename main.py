@@ -1,4 +1,3 @@
-import json
 from functions import extract_data
 import pandas as pd
 
@@ -20,7 +19,7 @@ headers = {
 # Cria um dicionário vazio para armazenar as informações
 data = {}
 
-extract_data(url, queries, headers, 'dados2.json')
+extract_data(url, queries, headers, 'dados.json')
 
 df = pd.read_json('dados.json')
 

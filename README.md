@@ -2,11 +2,10 @@
 Extraindo e tratando dados de futebol dos principais times de São Paulo
 
 Fala pessoal, desenvolvi esse projeto pessoal para enriquecer meu portfólio, o projeto consiste na extração, tratamento e limpeza de dados de uma api pública de futebol
-utilizando Python para essa primeira etapa e o Tableau para criar dashboards com os dados extraidos.
 
 ## ETAPAS:
 
-  1 - Extrai através da api os dados dos quatros principais times do estados de São Paulo, sendo eles: Corinthians, Palmeiras, Santos e São Paulo.
+  1 - Extração através dos dados através da *API* dos quatros principais times do estados de São Paulo, sendo eles: Corinthians, Palmeiras, Santos e São Paulo.
   
   2 - Limpar os dados extraidos e formatar-los.
   

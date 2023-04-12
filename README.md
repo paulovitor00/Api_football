@@ -22,14 +22,16 @@ utilizando Python para essa primeira etapa e o Tableau para criar dashboards com
     
 - tableau: Criação de gráficos e dashboards
 
+
+## Dashboard  
+![Captura de Tela 2023-04-11 às 10 27 31](https://user-images.githubusercontent.com/105992055/231566311-8abd5a63-ef60-4dd4-9006-7058dcdc9bd9.png)
+
+
 ## CONSIDERAÇÕES FINAIS:
 Insights:
   Na pasta Insights deixo listado os insights obtidos após análise das informações do dashboard.
 
 Estudo: 
   Para desenvolver esse projeto realizei alguns cursos na plataforma: Alura, cursos voltados a ETL, visualização de dados e python para dados.
- 
-
-  !Dashboard resultados iniciais](Captura de Tela 2023-04-11 às 10.27.31.png)
-
+  
 [Clique aqui para acessar a API utilizada!](https://www.api-football.com)

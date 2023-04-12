@@ -29,7 +29,7 @@ Insights:
 Estudo: 
   Para desenvolver esse projeto realizei alguns cursos na plataforma: Alura, cursos voltados a ETL, visualização de dados e python para dados.
  
-Dashboard Final:
 
+  !Dashboard resultados iniciais](Captura de Tela 2023-04-11 às 10.27.31.png)
 
 [Clique aqui para acessar a API utilizada!](https://www.api-football.com)
